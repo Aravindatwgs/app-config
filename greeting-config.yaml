@@ -9,7 +9,11 @@ management:
 logging:
   level: 
      io:
+<<<<<<< HEAD
       pivotal: debug
+=======
+      pivotal: info
+>>>>>>> 446a8a5a0f6f2ff8118ac2414abf3f043ad3fe65
 
 greeting:
   displayFortune: false
